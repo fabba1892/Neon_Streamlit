@@ -1,0 +1,1386 @@
+{
+  "version": "2026-02-26",
+  "model": "RAN Region / County / IDs / MappingCode",
+  "regionIdMap": {
+    "1005": "KZN",
+    "1006": "WES",
+    "1007": "EAS",
+    "1008": "CEN",
+    "1013": "LIM",
+    "1014": "MPU",
+    "1015": "NGA",
+    "1017": "SGS",
+    "1018": "SGC"
+  },
+  "countyIdLookup": {
+    "Bandundu": [
+      3
+    ],
+    "BDD": [
+      2
+    ],
+    "CEN_BA": [
+      4
+    ],
+    "CEN_DC": [
+      5
+    ],
+    "CEN_GC": [
+      6
+    ],
+    "CEN_NC": [
+      7
+    ],
+    "CEN_PC": [
+      8
+    ],
+    "CEN_WH": [
+      9
+    ],
+    "CMZ_MAN": [
+      10
+    ],
+    "CMZ_SOF": [
+      11
+    ],
+    "CMZ_TET": [
+      12
+    ],
+    "CMZ_ZAM": [
+      13
+    ],
+    "EAS_BA": [
+      14
+    ],
+    "EAS_ED": [
+      15
+    ],
+    "EAS_KE": [
+      16
+    ],
+    "EQT": [
+      17
+    ],
+    "Equateur": [
+      18
+    ],
+    "HKT": [
+      19
+    ],
+    "HLU": [
+      20
+    ],
+    "Kasai-Occidental": [
+      31
+    ],
+    "Kasai-Oriental": [
+      32
+    ],
+    "Katanga": [
+      33
+    ],
+    "KGC": [
+      21
+    ],
+    "Kie": [
+      1
+    ],
+    "KIN": [
+      22
+    ],
+    "KOC": [
+      23
+    ],
+    "KOR": [
+      24
+    ],
+    "KZN_BC": [
+      25
+    ],
+    "KZN_ET": [
+      26
+    ],
+    "KZN_NE": [
+      27
+    ],
+    "KZN_NW": [
+      28
+    ],
+    "KZN_SU": [
+      29
+    ],
+    "KZN_ZC": [
+      30
+    ],
+    "LES_BB": [
+      34
+    ],
+    "LES_BR": [
+      35
+    ],
+    "LES_LR": [
+      36
+    ],
+    "LES_LS": [
+      37
+    ],
+    "LES_MA": [
+      38
+    ],
+    "LES_MF": [
+      40
+    ],
+    "LES_MH": [
+      39
+    ],
+    "LES_MK": [
+      41
+    ],
+    "LES_QA": [
+      42
+    ],
+    "LES_QN": [
+      43
+    ],
+    "LES_QT": [
+      44
+    ],
+    "LES_TH": [
+      45
+    ],
+    "LES_TT": [
+      49
+    ],
+    "LIM_CA": [
+      46
+    ],
+    "LIM_VH": [
+      47
+    ],
+    "LIM_WA": [
+      48
+    ],
+    "MAN": [
+      60
+    ],
+    "Maniema": [
+      55
+    ],
+    "MPU_EH": [
+      50
+    ],
+    "MPU_GS": [
+      51
+    ],
+    "MPU_NK": [
+      52
+    ],
+    "MPU_NO": [
+      53
+    ],
+    "MPU_SO": [
+      54
+    ],
+    "NGA_ME": [
+      56
+    ],
+    "NGA_NO": [
+      57
+    ],
+    "NGA_NW": [
+      58
+    ],
+    "NKV": [
+      59
+    ],
+    "NMZ_CAB": [
+      61
+    ],
+    "NMZ_NAM": [
+      62
+    ],
+    "NMZ_NIA": [
+      63
+    ],
+    "Not Set": [
+      0
+    ],
+    "POR": [
+      66
+    ],
+    "SGC_CE": [
+      64,
+      67
+    ],
+    "SGC_EA": [
+      65,
+      68
+    ],
+    "SGC_WE": [
+      69
+    ],
+    "SGS_EA": [
+      70
+    ],
+    "SGS_SO": [
+      71
+    ],
+    "SGS_WE": [
+      72
+    ],
+    "SKV": [
+      73
+    ],
+    "SMZ_GAZ": [
+      74
+    ],
+    "SMZ_INH": [
+      75
+    ],
+    "SMZ_MPC": [
+      76
+    ],
+    "SMZ_MPP": [
+      77
+    ],
+    "Sud Kivu": [
+      78
+    ],
+    "Unknown": [
+      -1
+    ],
+    "WES_AT": [
+      79
+    ],
+    "WES_WH": [
+      80
+    ],
+    "WES_WL": [
+      81
+    ]
+  },
+  "byRegion": {
+    "CEN": {
+      "regionName": "Central",
+      "counties": [
+        "Diamond",
+        "Goldfields",
+        "Goldfields/UNK",
+        "Platinum"
+      ],
+      "countyCodeMap": [
+        {
+          "countyCode": "CEN_DC",
+          "county": "Diamond",
+          "aliases": [
+            "diamond"
+          ],
+          "countyIds": [
+            5
+          ]
+        },
+        {
+          "countyCode": "CEN_GC",
+          "county": "Goldfields",
+          "aliases": [
+            "gold",
+            "goldfields",
+            "goldfields/unk"
+          ],
+          "countyIds": [
+            6
+          ]
+        },
+        {
+          "countyCode": "CEN_PC",
+          "county": "Platinum",
+          "aliases": [
+            "platinum"
+          ],
+          "countyIds": [
+            8
+          ]
+        }
+      ],
+      "regionIds": [
+        1008
+      ]
+    },
+    "EAS": {
+      "regionName": "Eastern",
+      "counties": [
+        "Bay",
+        "Bay/UNK",
+        "Eden",
+        "Eden/UNK",
+        "Kei"
+      ],
+      "countyCodeMap": [
+        {
+          "countyCode": "EAS_BA",
+          "county": "Bay",
+          "aliases": [
+            "bay",
+            "bay/unk"
+          ],
+          "countyIds": [
+            14
+          ]
+        },
+        {
+          "countyCode": "EAS_ED",
+          "county": "Eden",
+          "aliases": [
+            "eden",
+            "eden/unk"
+          ],
+          "countyIds": [
+            15
+          ]
+        },
+        {
+          "countyCode": "EAS_KE",
+          "county": "Kei",
+          "aliases": [
+            "kei"
+          ],
+          "countyIds": [
+            16
+          ]
+        }
+      ],
+      "regionIds": [
+        1007
+      ]
+    },
+    "KZN": {
+      "regionName": "Kwa-Natal",
+      "counties": [
+        "Berg",
+        "Berg/UNK",
+        "South",
+        "South/UNK",
+        "UNK/Zululand",
+        "Zululand",
+        "eThekwini",
+        "eThekwini/UNK"
+      ],
+      "countyCodeMap": [
+        {
+          "countyCode": "KZN_BC",
+          "county": "Berg",
+          "aliases": [
+            "berg",
+            "berg/unk"
+          ],
+          "countyIds": [
+            25
+          ]
+        },
+        {
+          "countyCode": "KZN_ET",
+          "county": "eThekwini",
+          "aliases": [
+            "ethekwini",
+            "ethekwini/unk"
+          ],
+          "countyIds": [
+            26
+          ]
+        },
+        {
+          "countyCode": "KZN_SU",
+          "county": "South",
+          "aliases": [
+            "south",
+            "south/unk"
+          ],
+          "countyIds": [
+            29
+          ]
+        },
+        {
+          "countyCode": "KZN_ZC",
+          "county": "Zululand",
+          "aliases": [
+            "zulu",
+            "zululand",
+            "unk/zululand"
+          ],
+          "countyIds": [
+            30
+          ]
+        }
+      ],
+      "regionIds": [
+        1005
+      ]
+    },
+    "WES": {
+      "regionName": "Western",
+      "counties": [
+        "Atlantic",
+        "Atlantic/UNK",
+        "UNK/Whale",
+        "Whale",
+        "Winelands"
+      ],
+      "countyCodeMap": [
+        {
+          "countyCode": "WES_AT",
+          "county": "Atlantic",
+          "aliases": [
+            "atlantic",
+            "atlantic/unk"
+          ],
+          "countyIds": [
+            79
+          ]
+        },
+        {
+          "countyCode": "WES_WH",
+          "county": "Whale",
+          "aliases": [
+            "whale",
+            "unk/whale"
+          ],
+          "countyIds": [
+            80
+          ]
+        },
+        {
+          "countyCode": "WES_WL",
+          "county": "Winelands",
+          "aliases": [
+            "winelands"
+          ],
+          "countyIds": [
+            81
+          ]
+        }
+      ],
+      "regionIds": [
+        1006
+      ]
+    },
+    "LIM": {
+      "regionName": "Limpopo",
+      "counties": [
+        "Capricorn",
+        "Vhembe",
+        "Waterberg"
+      ],
+      "countyCodeMap": [
+        {
+          "countyCode": "LIM_CA",
+          "county": "Capricorn",
+          "aliases": [
+            "capricorn"
+          ],
+          "countyIds": [
+            46
+          ]
+        },
+        {
+          "countyCode": "LIM_VH",
+          "county": "Vhembe",
+          "aliases": [
+            "vhembe"
+          ],
+          "countyIds": [
+            47
+          ]
+        },
+        {
+          "countyCode": "LIM_WA",
+          "county": "Waterberg",
+          "aliases": [
+            "waterberg"
+          ],
+          "countyIds": [
+            48
+          ]
+        }
+      ],
+      "regionIds": [
+        1013
+      ]
+    },
+    "MPU": {
+      "regionName": "Mpumalanga",
+      "counties": [
+        "Ehlanzeni",
+        "Gert Sibande",
+        "Nkangala"
+      ],
+      "countyCodeMap": [
+        {
+          "countyCode": "MPU_EH",
+          "county": "Ehlanzeni",
+          "aliases": [
+            "ehlanzeni"
+          ],
+          "countyIds": [
+            50
+          ]
+        },
+        {
+          "countyCode": "MPU_GS",
+          "county": "Gert Sibande",
+          "aliases": [
+            "gert sibande"
+          ],
+          "countyIds": [
+            51
+          ]
+        },
+        {
+          "countyCode": "MPU_NK",
+          "county": "Nkangala",
+          "aliases": [
+            "nkangala"
+          ],
+          "countyIds": [
+            52
+          ]
+        }
+      ],
+      "regionIds": [
+        1014
+      ]
+    },
+    "NGA": {
+      "regionName": "Northern Gauteng",
+      "counties": [
+        "NGA Metro",
+        "NGA Metro/UNK",
+        "NGA North",
+        "North West"
+      ],
+      "countyCodeMap": [
+        {
+          "countyCode": "NGA_ME",
+          "county": "NGA Metro",
+          "aliases": [
+            "nga metro",
+            "nga metro/unk"
+          ],
+          "countyIds": [
+            56
+          ]
+        },
+        {
+          "countyCode": "NGA_NO",
+          "county": "NGA North",
+          "aliases": [
+            "nga north"
+          ],
+          "countyIds": [
+            57
+          ]
+        },
+        {
+          "countyCode": "NGA_NW",
+          "county": "North West",
+          "aliases": [
+            "north west"
+          ],
+          "countyIds": [
+            58
+          ]
+        }
+      ],
+      "regionIds": [
+        1015
+      ]
+    },
+    "SGC": {
+      "regionName": "Southern Gauteng Central",
+      "counties": [
+        "Aerotropolis",
+        "Aerotropolis/UNK",
+        "Central",
+        "West Side"
+      ],
+      "countyCodeMap": [
+        {
+          "countyCode": "SGC_EA",
+          "county": "Aerotropolis",
+          "aliases": [
+            "aerotropolis",
+            "aerotropolis/unk"
+          ],
+          "countyIds": [
+            65,
+            68
+          ]
+        },
+        {
+          "countyCode": "SGC_CE",
+          "county": "Central",
+          "aliases": [
+            "central"
+          ],
+          "countyIds": [
+            64,
+            67
+          ]
+        },
+        {
+          "countyCode": "SGC_WE",
+          "county": "West Side",
+          "aliases": [
+            "west side"
+          ],
+          "countyIds": [
+            69
+          ]
+        }
+      ],
+      "regionIds": [
+        1018
+      ]
+    },
+    "SGS": {
+      "regionName": "Southern Gauteng South",
+      "counties": [
+        "Deep South",
+        "Far East",
+        "Jozi West"
+      ],
+      "countyCodeMap": [
+        {
+          "countyCode": "SGS_SO",
+          "county": "Deep South",
+          "aliases": [
+            "deep south"
+          ],
+          "countyIds": [
+            71
+          ]
+        },
+        {
+          "countyCode": "SGS_EA",
+          "county": "Far East",
+          "aliases": [
+            "far east"
+          ],
+          "countyIds": [
+            70
+          ]
+        },
+        {
+          "countyCode": "SGS_WE",
+          "county": "Jozi West",
+          "aliases": [
+            "jozi west"
+          ],
+          "countyIds": [
+            72
+          ]
+        }
+      ],
+      "regionIds": [
+        1017
+      ]
+    },
+    "UNK": {
+      "regionName": "Unknown / Not Set",
+      "regionIds": [],
+      "counties": [
+        "Unknown",
+        "Not Set"
+      ],
+      "countyCodeMap": [
+        {
+          "countyCode": "Unknown",
+          "county": "Unknown",
+          "aliases": [
+            "unknown"
+          ],
+          "countyIds": [
+            -1
+          ]
+        },
+        {
+          "countyCode": "Not Set",
+          "county": "Not Set",
+          "aliases": [
+            "not set"
+          ],
+          "countyIds": [
+            0
+          ]
+        }
+      ]
+    }
+  },
+  "rows": [
+    {
+      "regionCode": "CEN",
+      "regionName": "Central",
+      "regionIds": [
+        1008
+      ],
+      "countyCode": "CEN_DC",
+      "county": "Diamond",
+      "countyIds": [
+        5
+      ]
+    },
+    {
+      "regionCode": "CEN",
+      "regionName": "Central",
+      "regionIds": [
+        1008
+      ],
+      "countyCode": "CEN_GC",
+      "county": "Goldfields",
+      "countyIds": [
+        6
+      ]
+    },
+    {
+      "regionCode": "CEN",
+      "regionName": "Central",
+      "regionIds": [
+        1008
+      ],
+      "countyCode": "CEN_PC",
+      "county": "Platinum",
+      "countyIds": [
+        8
+      ]
+    },
+    {
+      "regionCode": "EAS",
+      "regionName": "Eastern",
+      "regionIds": [
+        1007
+      ],
+      "countyCode": "EAS_BA",
+      "county": "Bay",
+      "countyIds": [
+        14
+      ]
+    },
+    {
+      "regionCode": "EAS",
+      "regionName": "Eastern",
+      "regionIds": [
+        1007
+      ],
+      "countyCode": "EAS_ED",
+      "county": "Eden",
+      "countyIds": [
+        15
+      ]
+    },
+    {
+      "regionCode": "EAS",
+      "regionName": "Eastern",
+      "regionIds": [
+        1007
+      ],
+      "countyCode": "EAS_KE",
+      "county": "Kei",
+      "countyIds": [
+        16
+      ]
+    },
+    {
+      "regionCode": "KZN",
+      "regionName": "Kwa-Natal",
+      "regionIds": [
+        1005
+      ],
+      "countyCode": "KZN_BC",
+      "county": "Berg",
+      "countyIds": [
+        25
+      ]
+    },
+    {
+      "regionCode": "KZN",
+      "regionName": "Kwa-Natal",
+      "regionIds": [
+        1005
+      ],
+      "countyCode": "KZN_ET",
+      "county": "eThekwini",
+      "countyIds": [
+        26
+      ]
+    },
+    {
+      "regionCode": "KZN",
+      "regionName": "Kwa-Natal",
+      "regionIds": [
+        1005
+      ],
+      "countyCode": "KZN_SU",
+      "county": "South",
+      "countyIds": [
+        29
+      ]
+    },
+    {
+      "regionCode": "KZN",
+      "regionName": "Kwa-Natal",
+      "regionIds": [
+        1005
+      ],
+      "countyCode": "KZN_ZC",
+      "county": "Zululand",
+      "countyIds": [
+        30
+      ]
+    },
+    {
+      "regionCode": "WES",
+      "regionName": "Western",
+      "regionIds": [
+        1006
+      ],
+      "countyCode": "WES_AT",
+      "county": "Atlantic",
+      "countyIds": [
+        79
+      ]
+    },
+    {
+      "regionCode": "WES",
+      "regionName": "Western",
+      "regionIds": [
+        1006
+      ],
+      "countyCode": "WES_WH",
+      "county": "Whale",
+      "countyIds": [
+        80
+      ]
+    },
+    {
+      "regionCode": "WES",
+      "regionName": "Western",
+      "regionIds": [
+        1006
+      ],
+      "countyCode": "WES_WL",
+      "county": "Winelands",
+      "countyIds": [
+        81
+      ]
+    },
+    {
+      "regionCode": "LIM",
+      "regionName": "Limpopo",
+      "regionIds": [
+        1013
+      ],
+      "countyCode": "LIM_CA",
+      "county": "Capricorn",
+      "countyIds": [
+        46
+      ]
+    },
+    {
+      "regionCode": "LIM",
+      "regionName": "Limpopo",
+      "regionIds": [
+        1013
+      ],
+      "countyCode": "LIM_VH",
+      "county": "Vhembe",
+      "countyIds": [
+        47
+      ]
+    },
+    {
+      "regionCode": "LIM",
+      "regionName": "Limpopo",
+      "regionIds": [
+        1013
+      ],
+      "countyCode": "LIM_WA",
+      "county": "Waterberg",
+      "countyIds": [
+        48
+      ]
+    },
+    {
+      "regionCode": "MPU",
+      "regionName": "Mpumalanga",
+      "regionIds": [
+        1014
+      ],
+      "countyCode": "MPU_EH",
+      "county": "Ehlanzeni",
+      "countyIds": [
+        50
+      ]
+    },
+    {
+      "regionCode": "MPU",
+      "regionName": "Mpumalanga",
+      "regionIds": [
+        1014
+      ],
+      "countyCode": "MPU_GS",
+      "county": "Gert Sibande",
+      "countyIds": [
+        51
+      ]
+    },
+    {
+      "regionCode": "MPU",
+      "regionName": "Mpumalanga",
+      "regionIds": [
+        1014
+      ],
+      "countyCode": "MPU_NK",
+      "county": "Nkangala",
+      "countyIds": [
+        52
+      ]
+    },
+    {
+      "regionCode": "NGA",
+      "regionName": "Northern Gauteng",
+      "regionIds": [
+        1015
+      ],
+      "countyCode": "NGA_ME",
+      "county": "NGA Metro",
+      "countyIds": [
+        56
+      ]
+    },
+    {
+      "regionCode": "NGA",
+      "regionName": "Northern Gauteng",
+      "regionIds": [
+        1015
+      ],
+      "countyCode": "NGA_NO",
+      "county": "NGA North",
+      "countyIds": [
+        57
+      ]
+    },
+    {
+      "regionCode": "NGA",
+      "regionName": "Northern Gauteng",
+      "regionIds": [
+        1015
+      ],
+      "countyCode": "NGA_NW",
+      "county": "North West",
+      "countyIds": [
+        58
+      ]
+    },
+    {
+      "regionCode": "SGC",
+      "regionName": "Southern Gauteng Central",
+      "regionIds": [
+        1018
+      ],
+      "countyCode": "SGC_EA",
+      "county": "Aerotropolis",
+      "countyIds": [
+        65,
+        68
+      ]
+    },
+    {
+      "regionCode": "SGC",
+      "regionName": "Southern Gauteng Central",
+      "regionIds": [
+        1018
+      ],
+      "countyCode": "SGC_CE",
+      "county": "Central",
+      "countyIds": [
+        64,
+        67
+      ]
+    },
+    {
+      "regionCode": "SGC",
+      "regionName": "Southern Gauteng Central",
+      "regionIds": [
+        1018
+      ],
+      "countyCode": "SGC_WE",
+      "county": "West Side",
+      "countyIds": [
+        69
+      ]
+    },
+    {
+      "regionCode": "SGS",
+      "regionName": "Southern Gauteng South",
+      "regionIds": [
+        1017
+      ],
+      "countyCode": "SGS_SO",
+      "county": "Deep South",
+      "countyIds": [
+        71
+      ]
+    },
+    {
+      "regionCode": "SGS",
+      "regionName": "Southern Gauteng South",
+      "regionIds": [
+        1017
+      ],
+      "countyCode": "SGS_EA",
+      "county": "Far East",
+      "countyIds": [
+        70
+      ]
+    },
+    {
+      "regionCode": "SGS",
+      "regionName": "Southern Gauteng South",
+      "regionIds": [
+        1017
+      ],
+      "countyCode": "SGS_WE",
+      "county": "Jozi West",
+      "countyIds": [
+        72
+      ]
+    },
+    {
+      "regionCode": "UNK",
+      "regionName": "Unknown / Not Set",
+      "regionIds": [],
+      "countyCode": "Unknown",
+      "county": "Unknown",
+      "countyIds": [
+        -1
+      ]
+    },
+    {
+      "regionCode": "UNK",
+      "regionName": "Unknown / Not Set",
+      "regionIds": [],
+      "countyCode": "Not Set",
+      "county": "Not Set",
+      "countyIds": [
+        0
+      ]
+    }
+  ],
+  "unmappedCountyValues": [
+    {
+      "countyValue": "Bandundu",
+      "countyIds": [
+        3
+      ]
+    },
+    {
+      "countyValue": "BDD",
+      "countyIds": [
+        2
+      ]
+    },
+    {
+      "countyValue": "CEN_BA",
+      "countyIds": [
+        4
+      ]
+    },
+    {
+      "countyValue": "CEN_NC",
+      "countyIds": [
+        7
+      ]
+    },
+    {
+      "countyValue": "CEN_WH",
+      "countyIds": [
+        9
+      ]
+    },
+    {
+      "countyValue": "CMZ_MAN",
+      "countyIds": [
+        10
+      ]
+    },
+    {
+      "countyValue": "CMZ_SOF",
+      "countyIds": [
+        11
+      ]
+    },
+    {
+      "countyValue": "CMZ_TET",
+      "countyIds": [
+        12
+      ]
+    },
+    {
+      "countyValue": "CMZ_ZAM",
+      "countyIds": [
+        13
+      ]
+    },
+    {
+      "countyValue": "EQT",
+      "countyIds": [
+        17
+      ]
+    },
+    {
+      "countyValue": "Equateur",
+      "countyIds": [
+        18
+      ]
+    },
+    {
+      "countyValue": "HKT",
+      "countyIds": [
+        19
+      ]
+    },
+    {
+      "countyValue": "HLU",
+      "countyIds": [
+        20
+      ]
+    },
+    {
+      "countyValue": "Kasai-Occidental",
+      "countyIds": [
+        31
+      ]
+    },
+    {
+      "countyValue": "Kasai-Oriental",
+      "countyIds": [
+        32
+      ]
+    },
+    {
+      "countyValue": "Katanga",
+      "countyIds": [
+        33
+      ]
+    },
+    {
+      "countyValue": "KGC",
+      "countyIds": [
+        21
+      ]
+    },
+    {
+      "countyValue": "Kie",
+      "countyIds": [
+        1
+      ]
+    },
+    {
+      "countyValue": "KIN",
+      "countyIds": [
+        22
+      ]
+    },
+    {
+      "countyValue": "KOC",
+      "countyIds": [
+        23
+      ]
+    },
+    {
+      "countyValue": "KOR",
+      "countyIds": [
+        24
+      ]
+    },
+    {
+      "countyValue": "KZN_NE",
+      "countyIds": [
+        27
+      ]
+    },
+    {
+      "countyValue": "KZN_NW",
+      "countyIds": [
+        28
+      ]
+    },
+    {
+      "countyValue": "LES_BB",
+      "countyIds": [
+        34
+      ]
+    },
+    {
+      "countyValue": "LES_BR",
+      "countyIds": [
+        35
+      ]
+    },
+    {
+      "countyValue": "LES_LR",
+      "countyIds": [
+        36
+      ]
+    },
+    {
+      "countyValue": "LES_LS",
+      "countyIds": [
+        37
+      ]
+    },
+    {
+      "countyValue": "LES_MA",
+      "countyIds": [
+        38
+      ]
+    },
+    {
+      "countyValue": "LES_MF",
+      "countyIds": [
+        40
+      ]
+    },
+    {
+      "countyValue": "LES_MH",
+      "countyIds": [
+        39
+      ]
+    },
+    {
+      "countyValue": "LES_MK",
+      "countyIds": [
+        41
+      ]
+    },
+    {
+      "countyValue": "LES_QA",
+      "countyIds": [
+        42
+      ]
+    },
+    {
+      "countyValue": "LES_QN",
+      "countyIds": [
+        43
+      ]
+    },
+    {
+      "countyValue": "LES_QT",
+      "countyIds": [
+        44
+      ]
+    },
+    {
+      "countyValue": "LES_TH",
+      "countyIds": [
+        45
+      ]
+    },
+    {
+      "countyValue": "LES_TT",
+      "countyIds": [
+        49
+      ]
+    },
+    {
+      "countyValue": "MAN",
+      "countyIds": [
+        60
+      ]
+    },
+    {
+      "countyValue": "Maniema",
+      "countyIds": [
+        55
+      ]
+    },
+    {
+      "countyValue": "MPU_NO",
+      "countyIds": [
+        53
+      ]
+    },
+    {
+      "countyValue": "MPU_SO",
+      "countyIds": [
+        54
+      ]
+    },
+    {
+      "countyValue": "NKV",
+      "countyIds": [
+        59
+      ]
+    },
+    {
+      "countyValue": "NMZ_CAB",
+      "countyIds": [
+        61
+      ]
+    },
+    {
+      "countyValue": "NMZ_NAM",
+      "countyIds": [
+        62
+      ]
+    },
+    {
+      "countyValue": "NMZ_NIA",
+      "countyIds": [
+        63
+      ]
+    },
+    {
+      "countyValue": "POR",
+      "countyIds": [
+        66
+      ]
+    },
+    {
+      "countyValue": "SKV",
+      "countyIds": [
+        73
+      ]
+    },
+    {
+      "countyValue": "SMZ_GAZ",
+      "countyIds": [
+        74
+      ]
+    },
+    {
+      "countyValue": "SMZ_INH",
+      "countyIds": [
+        75
+      ]
+    },
+    {
+      "countyValue": "SMZ_MPC",
+      "countyIds": [
+        76
+      ]
+    },
+    {
+      "countyValue": "SMZ_MPP",
+      "countyIds": [
+        77
+      ]
+    },
+    {
+      "countyValue": "Sud Kivu",
+      "countyIds": [
+        78
+      ]
+    }
+  ]
+}
