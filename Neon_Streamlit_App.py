@@ -1,5 +1,6 @@
 import streamlit as st
 import pandas as pd
+import os
 
 # Import our decoupled modules
 import data_engine
@@ -25,9 +26,17 @@ def main():
     # ==========================================
     # 📡 3. DATA INGESTION
     # ==========================================
+      # Ensure this is imported at the top of your file
+
     with st.spinner("📡 Syncing with Network Data..."):
-        # We call the engine. If the file is broken, the engine triggers st.stop()
-        df, metadata, regional_kpis = data_engine.load_and_process_data("Phase1result.txt")
+        # 1. Get the directory where Neon_Streamli_App.py lives
+        current_dir = os.path.dirname(os.path.abspath(__file__))
+        
+        # 2. Dynamically route into the 'data' folder
+        target_file = os.path.join(current_dir, "data", "Phase1result.txt")
+        
+        # 3. Pass the absolute path to the Data Engine
+        df, metadata, regional_kpis = data_engine.load_and_process_data(target_file)
 
     # ==========================================
     # 🎛️ 4. SIDEBAR: COMMAND & CONTROL
