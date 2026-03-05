@@ -1,1 +1,891 @@
-{"metadata": {"last_refreshed": "2026-03-03 11:53:01"}, "regional_data": {"MPU": {"Total_OOS_Count": 73, "Incidents": [{"start_ts": 1772530460, "Window_Start": "2026-03-03 11:34:20", "Region": "P4 MPU", "County_Names": ["Gert Sibande"], "OOS_Count": 4, "Total_Rank": 28060, "OOS_Location_List": ["GABLES_MW", "MUHANGA_MINE_MOB", "OSHOEK", "POTGIETERSHOOP"], "Power_Location_List": ["OSHOEK", "POTGIETERSHOOP"], "TX_Location_List": ["GABLES_MW", "POTGIETERSHOOP"], "RF_Location_List": [], "HW_Location_List": [], "Temp_Location_List": ["POTGIETERSHOOP"], "Hub_Site_List": ["OSHOEK", "POTGIETERSHOOP", "GABLES_MW"], "RCA": "Hubsite Failure Root Cause Power: OSHOEK"}, {"start_ts": 1772529837, "Window_Start": "2026-03-03 11:23:57", "Region": "P4 MPU", "County_Names": ["Nkangala"], "OOS_Count": 4, "Total_Rank": 42296, "OOS_Location_List": ["GOEDEHOOP_FARM", "KUSILE_CM_OFFICE", "KUSILE_MOB", "KUSILE_POWER_STN"], "Power_Location_List": ["GOEDEHOOP_FARM"], "TX_Location_List": ["KUSILE_CM_OFFICE", "KUSILE_POWER_STN"], "RF_Location_List": [], "HW_Location_List": [], "Temp_Location_List": [], "Hub_Site_List": ["GOEDEHOOP_FARM", "KUSILE_CM_OFFICE"], "RCA": "Hubsite Failure Root Cause Power: GOEDEHOOP_FARM"}, {"start_ts": 1772527916, "Window_Start": "2026-03-03 10:51:56", "Region": "P4 MPU", "County_Names": ["Ehlanzeni"], "OOS_Count": 4, "Total_Rank": 24378, "OOS_Location_List": ["COTTONDALE", "MUGIDI", "NKUKU", "OKKERNOORTBOOM"], "Power_Location_List": ["COTTONDALE", "MUGIDI", "NKUKU"], "TX_Location_List": ["COTTONDALE", "MUGIDI", "NKUKU"], "RF_Location_List": [], "HW_Location_List": [], "Temp_Location_List": [], "Hub_Site_List": ["COTTONDALE", "OKKERNOORTBOOM", "NKUKU", "MUGIDI"], "RCA": "Hubsite Failure Root Cause Power: COTTONDALE"}]}, "NGA": {"Total_OOS_Count": 28, "Incidents": []}, "CEN": {"Total_OOS_Count": 36, "Incidents": [{"start_ts": 1772518667, "Window_Start": "2026-03-03 08:17:47", "Region": "P3 CEN", "County_Names": ["Diamond"], "OOS_Count": 8, "Total_Rank": 78141, "OOS_Location_List": ["ALKANTPAN", "GLEN_ALLEN", "GREEN_VALLEY_NUTS", "MOOIDRAAI_ATC", "NELSPOORTJIE", "NIEKERKSHOOP_FOURIE", "NIEKERKSHOOP_MTN", "VEK_PRIESKA"], "Power_Location_List": ["ALKANTPAN", "GREEN_VALLEY_NUTS", "NELSPOORTJIE", "NIEKERKSHOOP_MTN", "VEK_PRIESKA"], "TX_Location_List": ["ALKANTPAN", "GLEN_ALLEN", "GREEN_VALLEY_NUTS", "MOOIDRAAI_ATC", "NELSPOORTJIE", "NIEKERKSHOOP_MTN", "VEK_PRIESKA"], "RF_Location_List": [], "HW_Location_List": ["NELSPOORTJIE"], "Temp_Location_List": [], "Hub_Site_List": ["MOOIDRAAI_ATC", "GREEN_VALLEY_NUTS", "VEK_PRIESKA", "NELSPOORTJIE", "GLEN_ALLEN", "NIEKERKSHOOP_MTN", "ALKANTPAN"], "RCA": "Hubsite Failure: MOOIDRAAI_ATC"}]}, "LIM": {"Total_OOS_Count": 116, "Incidents": [{"start_ts": 1772529186, "Window_Start": "2026-03-03 11:13:06", "Region": "P3 LIM", "County_Names": ["Capricorn"], "OOS_Count": 7, "Total_Rank": 61444, "OOS_Location_List": ["HUDSON_NTSANWISI_HIGH_SCHL", "ICT_CENTRE_TIVUMBENI", "LETABA_ZONE_8", "MAFARANE_HILLSIDE", "MALEKETLA", "MOKGOLOBOTHO", "RAMOTSHIDI"], "Power_Location_List": ["MAFARANE_HILLSIDE", "RAMOTSHIDI"], "TX_Location_List": ["LETABA_ZONE_8", "MAFARANE_HILLSIDE", "MOKGOLOBOTHO"], "RF_Location_List": [], "HW_Location_List": [], "Temp_Location_List": [], "Hub_Site_List": ["MAFARANE_HILLSIDE", "MOKGOLOBOTHO", "ICT_CENTRE_TIVUMBENI", "LETABA_ZONE_8"], "RCA": "Hubsite Failure Root Cause Power: MAFARANE_HILLSIDE"}, {"start_ts": 1772527824, "Window_Start": "2026-03-03 10:50:24", "Region": "P4 LIM", "County_Names": ["Vhembe"], "OOS_Count": 4, "Total_Rank": 46251, "OOS_Location_List": ["NGHEZIMANI", "SHINGWEDZI_TOWNSHIP", "SMOKEY", "XIKUNDU_CELLC"], "Power_Location_List": ["NGHEZIMANI", "SHINGWEDZI_TOWNSHIP", "SMOKEY", "XIKUNDU_CELLC"], "TX_Location_List": [], "RF_Location_List": [], "HW_Location_List": [], "Temp_Location_List": [], "Hub_Site_List": ["SHINGWEDZI_TOWNSHIP", "NGHEZIMANI", "XIKUNDU_CELLC"], "RCA": "Hubsite Failure Root Cause Power: SHINGWEDZI_TOWNSHIP"}, {"start_ts": 1772524191, "Window_Start": "2026-03-03 09:49:51", "Region": "P2 LIM", "County_Names": ["Vhembe"], "OOS_Count": 15, "Total_Rank": 138638, "OOS_Location_List": ["DIDIDI_VILLAGE", "DUMELA_DECT", "JILONGO", "MACKAUCKAU_SUPERMARKET", "MAGALIESBERG_NATURE_RES", "MAVAMBE", "MAVAMBE_TELKOM", "MHINGA_TELKOM", "MUCHIPISI", "MUKHOMI_MTN", "SHIVULANI_MTN", "TOMU_NORTH_MTN", "TSHIKONELO_DECT", "TSHILALA_PRIM_ST", "XIGALO"], "Power_Location_List": ["DIDIDI_VILLAGE", "DUMELA_DECT", "JILONGO", "MACKAUCKAU_SUPERMARKET", "MAGALIESBERG_NATURE_RES", "MUCHIPISI", "TOMU_NORTH_MTN", "TSHILALA_PRIM_ST"], "TX_Location_List": [], "RF_Location_List": ["JILONGO"], "HW_Location_List": ["JILONGO"], "Temp_Location_List": ["XIGALO"], "Hub_Site_List": ["MUKHOMI_MTN", "XIGALO", "TOMU_NORTH_MTN", "SHIVULANI_MTN", "DUMELA_DECT", "MUCHIPISI", "MACKAUCKAU_SUPERMARKET", "MHINGA_TELKOM", "DIDIDI_VILLAGE", "TSHIKONELO_DECT", "TSHILALA_PRIM_ST", "JILONGO", "MAVAMBE", "MAGALIESBERG_NATURE_RES"], "RCA": "Hubsite Failure: MUKHOMI_MTN"}, {"start_ts": 1772522836, "Window_Start": "2026-03-03 09:27:16", "Region": "P4 LIM", "County_Names": ["Capricorn"], "OOS_Count": 4, "Total_Rank": 35638, "OOS_Location_List": ["GA_MAMPA", "MAFEFE", "MAHLATJANE_PRIM_SCHL", "MONWANA_LODGE_MN1"], "Power_Location_List": ["GA_MAMPA", "MAFEFE", "MONWANA_LODGE_MN1"], "TX_Location_List": [], "RF_Location_List": ["MAHLATJANE_PRIM_SCHL"], "HW_Location_List": ["MAHLATJANE_PRIM_SCHL"], "Temp_Location_List": [], "Hub_Site_List": ["MONWANA_LODGE_MN1"], "RCA": "Hubsite Failure Root Cause Power: MONWANA_LODGE_MN1"}, {"start_ts": 1772521792, "Window_Start": "2026-03-03 09:09:52", "Region": "P3 LIM", "County_Names": ["Capricorn"], "OOS_Count": 7, "Total_Rank": 57818, "OOS_Location_List": ["COACH_HS", "KA_XIKWAMBANI", "LEPATSENE_WTR_TOWER", "LEPHEPHANE", "MAAKEPLAZA_ATLAS", "MOGAPENG", "MOGAPENG_ATC"], "Power_Location_List": ["KA_XIKWAMBANI", "LEPATSENE_WTR_TOWER", "LEPHEPHANE", "MOGAPENG", "MOGAPENG_ATC"], "TX_Location_List": [], "RF_Location_List": [], "HW_Location_List": [], "Temp_Location_List": [], "Hub_Site_List": ["MOGAPENG", "LEPATSENE_WTR_TOWER", "KA_XIKWAMBANI", "LEPHEPHANE", "MOGAPENG_ATC", "MAAKEPLAZA_ATLAS"], "RCA": "Hubsite Failure Root Cause Power: MOGAPENG"}, {"start_ts": 1772485208, "Window_Start": "2026-03-02 23:00:08", "Region": "P2 LIM", "County_Names": ["Vhembe"], "OOS_Count": 13, "Total_Rank": 111948, "OOS_Location_List": ["BEITBRIDGE_FARM", "DONGOLA_STACK", "HALAVHA_MTN", "KHOMELE", "MESSINA", "MPZEMA", "MUSINA_EAST", "PHADZIMA", "TSHEDZA_VILLAGE", "TSHIFHIRE", "TSHIKOTA_TS", "TSHIRENZHENI", "VERBAARD"], "Power_Location_List": ["BEITBRIDGE_FARM", "MPZEMA", "TSHIFHIRE", "TSHIKOTA_TS", "TSHIRENZHENI", "VERBAARD"], "TX_Location_List": [], "RF_Location_List": [], "HW_Location_List": ["PHADZIMA"], "Temp_Location_List": [], "Hub_Site_List": ["TSHIFHIRE", "PHADZIMA", "VERBAARD", "BEITBRIDGE_FARM", "MPZEMA", "MUSINA_EAST", "TSHEDZA_VILLAGE", "HALAVHA_MTN", "TSHIRENZHENI", "MESSINA", "DONGOLA_STACK"], "RCA": "Hubsite Failure Root Cause Power: TSHIFHIRE"}]}, "KZN": {"Total_OOS_Count": 121, "Incidents": [{"start_ts": 1772530924, "Window_Start": "2026-03-03 11:42:04", "Region": "P3 KZN", "County_Names": ["Zululand"], "OOS_Count": 8, "Total_Rank": 45717, "OOS_Location_List": ["KWAMTWADLAMA", "MDLETSHE_HELIOS", "MPEMBENI", "MPHOLA", "NHLWATHI", "NKONJANE", "NKWEME", "RHINOKOP"], "Power_Location_List": ["KWAMTWADLAMA", "MPEMBENI", "MPHOLA", "NHLWATHI", "NKONJANE"], "TX_Location_List": ["RHINOKOP"], "RF_Location_List": [], "HW_Location_List": ["MPEMBENI"], "Temp_Location_List": [], "Hub_Site_List": ["MDLETSHE_HELIOS", "MPHOLA", "MPEMBENI", "RHINOKOP", "NHLWATHI", "NKONJANE", "NKWEME", "KWAMTWADLAMA"], "RCA": "Hubsite Failure: MDLETSHE_HELIOS"}, {"start_ts": 1772530791, "Window_Start": "2026-03-03 11:39:51", "Region": "P4 KZN", "County_Names": ["Berg"], "OOS_Count": 4, "Total_Rank": 37618, "OOS_Location_List": ["CLOUDS_END_FARM_ATLAS", "LUNEBURG", "PONGOLA_SGMIL", "UITKOMST"], "Power_Location_List": ["PONGOLA_SGMIL"], "TX_Location_List": [], "RF_Location_List": ["UITKOMST"], "HW_Location_List": [], "Temp_Location_List": ["PONGOLA_SGMIL"], "Hub_Site_List": ["UITKOMST", "LUNEBURG", "CLOUDS_END_FARM_ATLAS", "PONGOLA_SGMIL"], "RCA": "Hubsite Failure: UITKOMST"}, {"start_ts": 1772530741, "Window_Start": "2026-03-03 11:39:01", "Region": "P3 KZN", "County_Names": ["eThekwini"], "OOS_Count": 8, "Total_Rank": 70658, "OOS_Location_List": ["CAMPERDOWN_RURAL_SBA", "COROVOCA", "GUGULETHU_JP_SCHL_ATLAS", "ISIPINGO_HILLS_PRIM_ATLAS", "ISIPINGO_SEC_MTN", "JABULA", "NEWLANDS_EAST_ATC", "SIYAJABULA_HIGH_SCHL_ATLAS"], "Power_Location_List": ["ISIPINGO_HILLS_PRIM_ATLAS", "ISIPINGO_SEC_MTN", "NEWLANDS_EAST_ATC", "SIYAJABULA_HIGH_SCHL_ATLAS"], "TX_Location_List": [], "RF_Location_List": [], "HW_Location_List": [], "Temp_Location_List": [], "Hub_Site_List": ["COROVOCA", "ISIPINGO_SEC_MTN", "JABULA", "NEWLANDS_EAST_ATC", "SIYAJABULA_HIGH_SCHL_ATLAS", "ISIPINGO_HILLS_PRIM_ATLAS", "CAMPERDOWN_RURAL_SBA", "GUGULETHU_JP_SCHL_ATLAS"], "RCA": "Hubsite Failure: COROVOCA"}, {"start_ts": 1772529563, "Window_Start": "2026-03-03 11:19:23", "Region": "P4 KZN", "County_Names": ["Zululand"], "OOS_Count": 5, "Total_Rank": 23318, "OOS_Location_List": ["DONGOTHULI", "NGXONGWANE", "NKOSIYETHU", "NONGOMA", "ZILVERHOUT"], "Power_Location_List": ["DONGOTHULI", "NGXONGWANE", "NKOSIYETHU"], "TX_Location_List": [], "RF_Location_List": ["NKOSIYETHU"], "HW_Location_List": [], "Temp_Location_List": [], "Hub_Site_List": ["ZILVERHOUT", "NGXONGWANE", "DONGOTHULI", "NONGOMA", "NKOSIYETHU"], "RCA": "Hubsite Failure: ZILVERHOUT"}, {"start_ts": 1772370286, "Window_Start": "2026-03-01 15:04:46", "Region": "P4 KZN", "County_Names": ["Zululand"], "OOS_Count": 4, "Total_Rank": 25395, "OOS_Location_List": ["ENQUPHENI", "NTONDWENI", "PHONDWENI", "SHIKISHELA"], "Power_Location_List": ["NTONDWENI", "SHIKISHELA"], "TX_Location_List": [], "RF_Location_List": [], "HW_Location_List": [], "Temp_Location_List": [], "Hub_Site_List": ["ENQUPHENI", "NTONDWENI", "SHIKISHELA", "PHONDWENI"], "RCA": "Hubsite Failure: ENQUPHENI"}]}, "SGC": {"Total_OOS_Count": 67, "Incidents": [{"start_ts": 1772526561, "Window_Start": "2026-03-03 10:29:21", "Region": "P4 SGC", "County_Names": ["Central"], "OOS_Count": 4, "Total_Rank": 36097, "OOS_Location_List": ["CLICKS_DC_MN1", "GEORGE_RD", "GLEN_AUSTIN", "SAMRAND_DATA_CENTRE"], "Power_Location_List": ["GEORGE_RD", "SAMRAND_DATA_CENTRE"], "TX_Location_List": ["CLICKS_DC_MN1"], "RF_Location_List": [], "HW_Location_List": [], "Temp_Location_List": [], "Hub_Site_List": ["GLEN_AUSTIN", "GEORGE_RD"], "RCA": "Hubsite Failure: GLEN_AUSTIN"}, {"start_ts": 1772525900, "Window_Start": "2026-03-03 10:18:20", "Region": "P3 SGC", "County_Names": ["Aerotropolis"], "OOS_Count": 10, "Total_Rank": 99481, "OOS_Location_List": ["EMBOMINI_PRIM_SCHL_M", "IVORYCROS_LP", "IVORY_PARK_EXT", "MEKATEKA_PRIM_SCH_CC", "NORCROS_SA_DAS", "NORCROS_SA_RDS", "R562_BB", "TIGERFISH_STR_ATC", "TSWELOPELE_EXT5_RDS", "WINDMILL_EXT_MTN"], "Power_Location_List": ["IVORYCROS_LP", "R562_BB", "TSWELOPELE_EXT5_RDS", "WINDMILL_EXT_MTN"], "TX_Location_List": [], "RF_Location_List": [], "HW_Location_List": [], "Temp_Location_List": [], "Hub_Site_List": ["IVORY_PARK_EXT", "EMBOMINI_PRIM_SCHL_M", "TSWELOPELE_EXT5_RDS", "R562_BB", "MEKATEKA_PRIM_SCH_CC", "WINDMILL_EXT_MTN", "IVORYCROS_LP"], "RCA": "Hubsite Failure: IVORY_PARK_EXT"}]}, "SGS": {"Total_OOS_Count": 60, "Incidents": [{"start_ts": 1772531420, "Window_Start": "2026-03-03 11:50:20", "Region": "P4 SGS", "County_Names": ["Far East"], "OOS_Count": 4, "Total_Rank": 38467, "OOS_Location_List": ["BARCELONA_PRIM", "CHRIS_HANI_EAST", "MELODY_PRIM", "VUNANIMFUNDO"], "Power_Location_List": ["MELODY_PRIM", "VUNANIMFUNDO"], "TX_Location_List": [], "RF_Location_List": [], "HW_Location_List": [], "Temp_Location_List": [], "Hub_Site_List": ["VUNANIMFUNDO"], "RCA": "Hubsite Failure Root Cause Power: VUNANIMFUNDO"}]}, "EAS": {"Total_OOS_Count": 34, "Incidents": [{"start_ts": 1772523122, "Window_Start": "2026-03-03 09:32:02", "Region": "P4 EAS", "County_Names": ["Kei"], "OOS_Count": 5, "Total_Rank": 35464, "OOS_Location_List": ["CUBENI_DECT", "MALONGWANE", "MPOTULO_DECT", "TSOMO", "TSOMO_DLU"], "Power_Location_List": ["MALONGWANE", "TSOMO", "TSOMO_DLU"], "TX_Location_List": ["MALONGWANE"], "RF_Location_List": [], "HW_Location_List": [], "Temp_Location_List": [], "Hub_Site_List": ["CUBENI_DECT", "MPOTULO_DECT", "TSOMO_DLU", "TSOMO", "MALONGWANE"], "RCA": "Hubsite Failure: CUBENI_DECT"}]}, "WES": {"Total_OOS_Count": 5, "Incidents": []}}}
+{
+  "metadata": {
+    "last_refreshed": "2026-03-04 14:31:39",
+    "min_avg_rank": 4650.25
+  },
+  "regional_data": {
+    "KZN": {
+      "Total_OOS_Count": 79,
+      "Incidents": [
+        {
+          "start_ts": 1772613285,
+          "Region": "KZN",
+          "Hub_Name": "County Group",
+          "County_List": [
+            "Zululand"
+          ],
+          "OOS_Count": 4,
+          "Tech_Counts": {
+            "2G": 3,
+            "3G": 2,
+            "4G": 0,
+            "5G": 0
+          },
+          "Impact_15min_Count": 4,
+          "MSDP_Priority": "P4",
+          "Failure_Window": "4 sites in 12min",
+          "Failure_Probability": "N/A",
+          "Average_Rank": 4650.25,
+          "OOS_Location_List": [
+            "BUSHLANDS",
+            "MPEMBENI",
+            "NHLWATHI",
+            "RHINOKOP"
+          ],
+          "Power_Location_List": [
+            "BUSHLANDS",
+            "MPEMBENI",
+            "NHLWATHI"
+          ],
+          "Hub_Site_List": [
+            "BUSHLANDS",
+            "MPEMBENI"
+          ],
+          "High_Temp_Location_List": [],
+          "Intruder_Location_List": [],
+          "RCA": "Link Issue - Power Related"
+        },
+        {
+          "start_ts": 1772614421,
+          "Region": "KZN",
+          "Hub_Name": "County Group",
+          "County_List": [
+            "Zululand"
+          ],
+          "OOS_Count": 3,
+          "Tech_Counts": {
+            "2G": 1,
+            "3G": 2,
+            "4G": 0,
+            "5G": 0
+          },
+          "Impact_15min_Count": 3,
+          "MSDP_Priority": "P4",
+          "Failure_Window": "3 sites in 6min",
+          "Failure_Probability": "N/A",
+          "Average_Rank": 4952.0,
+          "OOS_Location_List": [
+            "NHLWATHI",
+            "NKONJANE",
+            "RHINOKOP"
+          ],
+          "Power_Location_List": [
+            "NHLWATHI",
+            "NKONJANE"
+          ],
+          "Hub_Site_List": [
+            "NKONJANE"
+          ],
+          "High_Temp_Location_List": [],
+          "Intruder_Location_List": [],
+          "RCA": "Link Issue - Power Related"
+        },
+        {
+          "start_ts": 1772370286,
+          "Region": "KZN",
+          "Hub_Name": "County Group",
+          "County_List": [
+            "Zululand"
+          ],
+          "OOS_Count": 3,
+          "Tech_Counts": {
+            "2G": 3,
+            "3G": 3,
+            "4G": 0,
+            "5G": 0
+          },
+          "Impact_15min_Count": 3,
+          "MSDP_Priority": "P4",
+          "Failure_Window": "3 sites in 0min",
+          "Failure_Probability": "N/A",
+          "Average_Rank": 6416.0,
+          "OOS_Location_List": [
+            "NTONDWENI",
+            "PHONDWENI",
+            "SHIKISHELA"
+          ],
+          "Power_Location_List": [
+            "NTONDWENI",
+            "SHIKISHELA"
+          ],
+          "Hub_Site_List": [
+            "PHONDWENI"
+          ],
+          "High_Temp_Location_List": [],
+          "Intruder_Location_List": [],
+          "RCA": "Link Issue - Power Related"
+        },
+        {
+          "start_ts": 1772372140,
+          "Region": "KZN",
+          "Hub_Name": "County Group",
+          "County_List": [
+            "Zululand"
+          ],
+          "OOS_Count": 3,
+          "Tech_Counts": {
+            "2G": 0,
+            "3G": 0,
+            "4G": 0,
+            "5G": 0
+          },
+          "Impact_15min_Count": 3,
+          "MSDP_Priority": "P4",
+          "Failure_Window": "3 sites in 12min",
+          "Failure_Probability": "N/A",
+          "Average_Rank": 6416.0,
+          "OOS_Location_List": [
+            "NTONDWENI",
+            "PHONDWENI",
+            "SHIKISHELA"
+          ],
+          "Power_Location_List": [
+            "NTONDWENI",
+            "SHIKISHELA"
+          ],
+          "Hub_Site_List": [
+            "PHONDWENI"
+          ],
+          "High_Temp_Location_List": [],
+          "Intruder_Location_List": [],
+          "RCA": "Link Issue - Power Related"
+        },
+        {
+          "start_ts": 1772474509,
+          "Region": "KZN",
+          "Hub_Name": "County Group",
+          "County_List": [
+            "Berg"
+          ],
+          "OOS_Count": 3,
+          "Tech_Counts": {
+            "2G": 3,
+            "3G": 2,
+            "4G": 0,
+            "5G": 0
+          },
+          "Impact_15min_Count": 3,
+          "MSDP_Priority": "P4",
+          "Failure_Window": "3 sites in 0min",
+          "Failure_Probability": "N/A",
+          "Average_Rank": 7542.0,
+          "OOS_Location_List": [
+            "SEVULE_MTN",
+            "THOLULYWAZI_ATC",
+            "ZAQHELE_TELKOM"
+          ],
+          "Power_Location_List": [
+            "SEVULE_MTN",
+            "THOLULYWAZI_ATC",
+            "ZAQHELE_TELKOM"
+          ],
+          "Hub_Site_List": [
+            "SEVULE_MTN"
+          ],
+          "High_Temp_Location_List": [],
+          "Intruder_Location_List": [],
+          "RCA": "Link Issue - Power Related"
+        },
+        {
+          "start_ts": 1772537808,
+          "Region": "KZN",
+          "Hub_Name": "County Group",
+          "County_List": [
+            "Berg"
+          ],
+          "OOS_Count": 3,
+          "Tech_Counts": {
+            "2G": 3,
+            "3G": 2,
+            "4G": 0,
+            "5G": 0
+          },
+          "Impact_15min_Count": 3,
+          "MSDP_Priority": "P4",
+          "Failure_Window": "3 sites in 0min",
+          "Failure_Probability": "N/A",
+          "Average_Rank": 9050.67,
+          "OOS_Location_List": [
+            "CLOUDS_END_FARM_ATLAS",
+            "LUNEBURG",
+            "UITKOMST"
+          ],
+          "Power_Location_List": [],
+          "Hub_Site_List": [
+            "LUNEBURG"
+          ],
+          "High_Temp_Location_List": [],
+          "Intruder_Location_List": [],
+          "RCA": "Link Issue"
+        }
+      ]
+    },
+    "CEN": {
+      "Total_OOS_Count": 28,
+      "Incidents": [
+        {
+          "start_ts": 1772556688,
+          "Region": "CEN",
+          "Hub_Name": "County Group",
+          "County_List": [
+            "Diamond"
+          ],
+          "OOS_Count": 3,
+          "Tech_Counts": {
+            "2G": 2,
+            "3G": 3,
+            "4G": 0,
+            "5G": 0
+          },
+          "Impact_15min_Count": 3,
+          "MSDP_Priority": "P4",
+          "Failure_Window": "3 sites in 8min",
+          "Failure_Probability": "N/A",
+          "Average_Rank": 7375.33,
+          "OOS_Location_List": [
+            "BRAY",
+            "KILDARE_MTN",
+            "OMEGA"
+          ],
+          "Power_Location_List": [
+            "BRAY",
+            "KILDARE_MTN"
+          ],
+          "Hub_Site_List": [],
+          "High_Temp_Location_List": [
+            "BRAY",
+            "KILDARE_MTN"
+          ],
+          "Intruder_Location_List": [],
+          "RCA": "Link Issue - Power Related"
+        }
+      ]
+    },
+    "MPU": {
+      "Total_OOS_Count": 65,
+      "Incidents": [
+        {
+          "start_ts": 1772610575,
+          "Region": "MPU",
+          "Hub_Name": "THOKOZA",
+          "County_List": [
+            "Nkangala"
+          ],
+          "OOS_Count": 3,
+          "Tech_Counts": {
+            "2G": 3,
+            "3G": 2,
+            "4G": 0,
+            "5G": 0
+          },
+          "Impact_15min_Count": 3,
+          "MSDP_Priority": "P4",
+          "Failure_Window": "3 sites in 3min",
+          "Failure_Probability": "100.0%",
+          "Average_Rank": 5278.0,
+          "OOS_Location_List": [
+            "MOLOTO_(ATLAS)",
+            "MOLOTO_COMPLEX",
+            "THOKOZA"
+          ],
+          "Power_Location_List": [
+            "MOLOTO_COMPLEX",
+            "THOKOZA"
+          ],
+          "Hub_Site_List": [
+            "THOKOZA"
+          ],
+          "High_Temp_Location_List": [
+            "MOLOTO_COMPLEX"
+          ],
+          "Intruder_Location_List": [],
+          "RCA": "Hubsite Failure - Power"
+        }
+      ]
+    },
+    "LIM": {
+      "Total_OOS_Count": 49,
+      "Incidents": [
+        {
+          "start_ts": 1772550531,
+          "Region": "LIM",
+          "Hub_Name": "County Group",
+          "County_List": [
+            "Vhembe"
+          ],
+          "OOS_Count": 3,
+          "Tech_Counts": {
+            "2G": 3,
+            "3G": 0,
+            "4G": 0,
+            "5G": 0
+          },
+          "Impact_15min_Count": 3,
+          "MSDP_Priority": "P4",
+          "Failure_Window": "3 sites in 3min",
+          "Failure_Probability": "N/A",
+          "Average_Rank": 8050.33,
+          "OOS_Location_List": [
+            "MPZEMA",
+            "PHADZIMA",
+            "TSHEDZA_VILLAGE"
+          ],
+          "Power_Location_List": [
+            "MPZEMA"
+          ],
+          "Hub_Site_List": [],
+          "High_Temp_Location_List": [
+            "MPZEMA",
+            "PHADZIMA"
+          ],
+          "Intruder_Location_List": [],
+          "RCA": "Link Issue"
+        },
+        {
+          "start_ts": 1772614463,
+          "Region": "LIM",
+          "Hub_Name": "County Group",
+          "County_List": [
+            "Waterberg"
+          ],
+          "OOS_Count": 3,
+          "Tech_Counts": {
+            "2G": 3,
+            "3G": 3,
+            "4G": 0,
+            "5G": 0
+          },
+          "Impact_15min_Count": 3,
+          "MSDP_Priority": "P4",
+          "Failure_Window": "3 sites in 3min",
+          "Failure_Probability": "N/A",
+          "Average_Rank": 8576.33,
+          "OOS_Location_List": [
+            "GA_MATSHATSHA_1",
+            "MPHANAMA",
+            "MPHANAMA_VILLAGE"
+          ],
+          "Power_Location_List": [
+            "GA_MATSHATSHA_1",
+            "MPHANAMA",
+            "MPHANAMA_VILLAGE"
+          ],
+          "Hub_Site_List": [
+            "MPHANAMA"
+          ],
+          "High_Temp_Location_List": [
+            "GA_MATSHATSHA_1"
+          ],
+          "Intruder_Location_List": [],
+          "RCA": "Link Issue - Power Related"
+        },
+        {
+          "start_ts": 1772485210,
+          "Region": "LIM",
+          "Hub_Name": "County Group",
+          "County_List": [
+            "Vhembe"
+          ],
+          "OOS_Count": 5,
+          "Tech_Counts": {
+            "2G": 0,
+            "3G": 5,
+            "4G": 0,
+            "5G": 0
+          },
+          "Impact_15min_Count": 5,
+          "MSDP_Priority": "P4",
+          "Failure_Window": "5 sites in 0min",
+          "Failure_Probability": "N/A",
+          "Average_Rank": 8714.4,
+          "OOS_Location_List": [
+            "HALAVHA_MTN",
+            "MPZEMA",
+            "PHADZIMA",
+            "TSHEDZA_VILLAGE",
+            "TSHIRENZHENI"
+          ],
+          "Power_Location_List": [
+            "MPZEMA"
+          ],
+          "Hub_Site_List": [],
+          "High_Temp_Location_List": [
+            "MPZEMA",
+            "PHADZIMA"
+          ],
+          "Intruder_Location_List": [],
+          "RCA": "Link Issue"
+        },
+        {
+          "start_ts": 1772552413,
+          "Region": "LIM",
+          "Hub_Name": "County Group",
+          "County_List": [
+            "Vhembe"
+          ],
+          "OOS_Count": 3,
+          "Tech_Counts": {
+            "2G": 3,
+            "3G": 2,
+            "4G": 0,
+            "5G": 0
+          },
+          "Impact_15min_Count": 3,
+          "MSDP_Priority": "P4",
+          "Failure_Window": "3 sites in 3min",
+          "Failure_Probability": "N/A",
+          "Average_Rank": 10098.0,
+          "OOS_Location_List": [
+            "FANDANI_VILLAGE",
+            "KHAVHAMBE",
+            "MAKUYA"
+          ],
+          "Power_Location_List": [
+            "FANDANI_VILLAGE",
+            "KHAVHAMBE",
+            "MAKUYA"
+          ],
+          "Hub_Site_List": [],
+          "High_Temp_Location_List": [
+            "KHAVHAMBE"
+          ],
+          "Intruder_Location_List": [],
+          "RCA": "Link Issue - Power Related"
+        }
+      ]
+    },
+    "SGS": {
+      "Total_OOS_Count": 47,
+      "Incidents": [
+        {
+          "start_ts": 1772612248,
+          "Region": "SGS",
+          "Hub_Name": "County Group",
+          "County_List": [
+            "Jozi West"
+          ],
+          "OOS_Count": 3,
+          "Tech_Counts": {
+            "2G": 2,
+            "3G": 3,
+            "4G": 0,
+            "5G": 0
+          },
+          "Impact_15min_Count": 3,
+          "MSDP_Priority": "P4",
+          "Failure_Window": "3 sites in 3min",
+          "Failure_Probability": "N/A",
+          "Average_Rank": 12452.0,
+          "OOS_Location_List": [
+            "AVIANTO_EST",
+            "DISWILMAR",
+            "DNP_CONSTRUCTION_MN1"
+          ],
+          "Power_Location_List": [
+            "AVIANTO_EST",
+            "DISWILMAR"
+          ],
+          "Hub_Site_List": [],
+          "High_Temp_Location_List": [
+            "AVIANTO_EST",
+            "DISWILMAR"
+          ],
+          "Intruder_Location_List": [],
+          "RCA": "Link Issue - Power Related"
+        }
+      ]
+    },
+    "WES": {
+      "Total_OOS_Count": 8,
+      "Incidents": [
+        {
+          "start_ts": 1772566015,
+          "Region": "WES",
+          "Hub_Name": "County Group",
+          "County_List": [
+            "Whale"
+          ],
+          "OOS_Count": 3,
+          "Tech_Counts": {
+            "2G": 3,
+            "3G": 2,
+            "4G": 0,
+            "5G": 0
+          },
+          "Impact_15min_Count": 3,
+          "MSDP_Priority": "P4",
+          "Failure_Window": "3 sites in 13min",
+          "Failure_Probability": "N/A",
+          "Average_Rank": 8571.0,
+          "OOS_Location_List": [
+            "ASHTON_SILO",
+            "KLAASVOOGDS",
+            "VAN_LOVEREN_FARM"
+          ],
+          "Power_Location_List": [
+            "KLAASVOOGDS"
+          ],
+          "Hub_Site_List": [
+            "VAN_LOVEREN_FARM"
+          ],
+          "High_Temp_Location_List": [],
+          "Intruder_Location_List": [],
+          "RCA": "Link Issue"
+        }
+      ]
+    },
+    "SGC": {
+      "Total_OOS_Count": 50,
+      "Incidents": [
+        {
+          "start_ts": 1772577733,
+          "Region": "SGC",
+          "Hub_Name": "BREDELL",
+          "County_List": [
+            "Aerotropolis"
+          ],
+          "OOS_Count": 3,
+          "Tech_Counts": {
+            "2G": 1,
+            "3G": 1,
+            "4G": 0,
+            "5G": 0
+          },
+          "Impact_15min_Count": 3,
+          "MSDP_Priority": "P4",
+          "Failure_Window": "3 sites in 0min",
+          "Failure_Probability": "100.0%",
+          "Average_Rank": 9477.33,
+          "OOS_Location_List": [
+            "BREDELL",
+            "DSV_PARK_HQ",
+            "SANDVIK_KHOMANANI"
+          ],
+          "Power_Location_List": [
+            "BREDELL",
+            "DSV_PARK_HQ"
+          ],
+          "Hub_Site_List": [
+            "BREDELL"
+          ],
+          "High_Temp_Location_List": [],
+          "Intruder_Location_List": [],
+          "RCA": "Hubsite Failure - Power"
+        },
+        {
+          "start_ts": 1772614686,
+          "Region": "SGC",
+          "Hub_Name": "CLIENTELE_LIFE",
+          "County_List": [
+            "Central"
+          ],
+          "OOS_Count": 3,
+          "Tech_Counts": {
+            "2G": 3,
+            "3G": 3,
+            "4G": 0,
+            "5G": 0
+          },
+          "Impact_15min_Count": 3,
+          "MSDP_Priority": "P4",
+          "Failure_Window": "3 sites in 3min",
+          "Failure_Probability": "100.0%",
+          "Average_Rank": 9826.0,
+          "OOS_Location_List": [
+            "CLIENTELE_LIFE",
+            "CLIENTELE_LIFE_DAS",
+            "GALLO_MANOR"
+          ],
+          "Power_Location_List": [
+            "CLIENTELE_LIFE_DAS",
+            "GALLO_MANOR"
+          ],
+          "Hub_Site_List": [
+            "GALLO_MANOR"
+          ],
+          "High_Temp_Location_List": [
+            "GALLO_MANOR"
+          ],
+          "Intruder_Location_List": [],
+          "RCA": "Hubsite Failure - Transmission"
+        },
+        {
+          "start_ts": 1772544429,
+          "Region": "SGC",
+          "Hub_Name": "County Group",
+          "County_List": [
+            "Aerotropolis"
+          ],
+          "OOS_Count": 3,
+          "Tech_Counts": {
+            "2G": 3,
+            "3G": 3,
+            "4G": 0,
+            "5G": 0
+          },
+          "Impact_15min_Count": 3,
+          "MSDP_Priority": "P4",
+          "Failure_Window": "3 sites in 3min",
+          "Failure_Probability": "N/A",
+          "Average_Rank": 11831.67,
+          "OOS_Location_List": [
+            "BIRCHWOOD_HOTEL_EXT",
+            "GROUP_FIVE_BOKSBURG_MN1",
+            "RTT_BARTLETT"
+          ],
+          "Power_Location_List": [],
+          "Hub_Site_List": [
+            "RTT_BARTLETT"
+          ],
+          "High_Temp_Location_List": [],
+          "Intruder_Location_List": [],
+          "RCA": "Link Issue"
+        }
+      ]
+    },
+    "EAS": {
+      "Total_OOS_Count": 29,
+      "Incidents": [
+        {
+          "start_ts": 1772596840,
+          "Region": "EAS",
+          "Hub_Name": "County Group",
+          "County_List": [
+            "Kei"
+          ],
+          "OOS_Count": 3,
+          "Tech_Counts": {
+            "2G": 3,
+            "3G": 1,
+            "4G": 0,
+            "5G": 0
+          },
+          "Impact_15min_Count": 3,
+          "MSDP_Priority": "P4",
+          "Failure_Window": "3 sites in 11min",
+          "Failure_Probability": "N/A",
+          "Average_Rank": 5368.33,
+          "OOS_Location_List": [
+            "BERTIEVALE",
+            "HA_MOHAPI",
+            "THABA_CHICHA"
+          ],
+          "Power_Location_List": [
+            "BERTIEVALE",
+            "HA_MOHAPI"
+          ],
+          "Hub_Site_List": [
+            "BERTIEVALE"
+          ],
+          "High_Temp_Location_List": [
+            "BERTIEVALE"
+          ],
+          "Intruder_Location_List": [],
+          "RCA": "Link Issue - Power Related"
+        },
+        {
+          "start_ts": 1772607339,
+          "Region": "EAS",
+          "Hub_Name": "County Group",
+          "County_List": [
+            "Kei"
+          ],
+          "OOS_Count": 6,
+          "Tech_Counts": {
+            "2G": 2,
+            "3G": 1,
+            "4G": 0,
+            "5G": 0
+          },
+          "Impact_15min_Count": 6,
+          "MSDP_Priority": "P3",
+          "Failure_Window": "6 sites in 11min",
+          "Failure_Probability": "N/A",
+          "Average_Rank": 5723.17,
+          "OOS_Location_List": [
+            "DENGWANE",
+            "LOWER_ROZA_JSS_ATLAS",
+            "MVUMELWANO",
+            "QUMBU",
+            "QUMBU_TOWN_LP",
+            "TINA_HILLS"
+          ],
+          "Power_Location_List": [
+            "LOWER_ROZA_JSS_ATLAS",
+            "MVUMELWANO",
+            "QUMBU"
+          ],
+          "Hub_Site_List": [
+            "QUMBU"
+          ],
+          "High_Temp_Location_List": [
+            "LOWER_ROZA_JSS_ATLAS",
+            "QUMBU"
+          ],
+          "Intruder_Location_List": [],
+          "RCA": "Link Issue - Power Related"
+        },
+        {
+          "start_ts": 1772614448,
+          "Region": "EAS",
+          "Hub_Name": "County Group",
+          "County_List": [
+            "Kei"
+          ],
+          "OOS_Count": 3,
+          "Tech_Counts": {
+            "2G": 2,
+            "3G": 3,
+            "4G": 0,
+            "5G": 0
+          },
+          "Impact_15min_Count": 3,
+          "MSDP_Priority": "P4",
+          "Failure_Window": "3 sites in 5min",
+          "Failure_Probability": "N/A",
+          "Average_Rank": 7680.33,
+          "OOS_Location_List": [
+            "COGHANE",
+            "NQADU_ORION",
+            "ZINGISA_MTN"
+          ],
+          "Power_Location_List": [
+            "ZINGISA_MTN"
+          ],
+          "Hub_Site_List": [],
+          "High_Temp_Location_List": [
+            "ZINGISA_MTN"
+          ],
+          "Intruder_Location_List": [],
+          "RCA": "Link Issue"
+        },
+        {
+          "start_ts": 1772613018,
+          "Region": "EAS",
+          "Hub_Name": "County Group",
+          "County_List": [
+            "Kei"
+          ],
+          "OOS_Count": 8,
+          "Tech_Counts": {
+            "2G": 2,
+            "3G": 8,
+            "4G": 0,
+            "5G": 0
+          },
+          "Impact_15min_Count": 8,
+          "MSDP_Priority": "P3",
+          "Failure_Window": "8 sites in 11min",
+          "Failure_Probability": "N/A",
+          "Average_Rank": 7848.25,
+          "OOS_Location_List": [
+            "CEKWAYO_DECT",
+            "CENGCANE_DECT",
+            "DENGWANE",
+            "KUGQUNU_DECT",
+            "LOWER_ROZA_JSS_ATLAS",
+            "MHLABAMNYAMA",
+            "MVUMELWANO",
+            "TINA_HILLS"
+          ],
+          "Power_Location_List": [
+            "KUGQUNU_DECT",
+            "LOWER_ROZA_JSS_ATLAS",
+            "MVUMELWANO"
+          ],
+          "Hub_Site_List": [],
+          "High_Temp_Location_List": [
+            "KUGQUNU_DECT",
+            "LOWER_ROZA_JSS_ATLAS"
+          ],
+          "Intruder_Location_List": [],
+          "RCA": "Link Issue"
+        },
+        {
+          "start_ts": 1772610563,
+          "Region": "EAS",
+          "Hub_Name": "County Group",
+          "County_List": [
+            "Kei"
+          ],
+          "OOS_Count": 7,
+          "Tech_Counts": {
+            "2G": 6,
+            "3G": 0,
+            "4G": 0,
+            "5G": 0
+          },
+          "Impact_15min_Count": 7,
+          "MSDP_Priority": "P3",
+          "Failure_Window": "7 sites in 7min",
+          "Failure_Probability": "N/A",
+          "Average_Rank": 7864.14,
+          "OOS_Location_List": [
+            "CEKWAYO_DECT",
+            "CENGCANE_DECT",
+            "KUGQUNU_DECT",
+            "LOWER_ROZA_JSS_ATLAS",
+            "MHLABAMNYAMA",
+            "MVUMELWANO",
+            "TINA_HILLS"
+          ],
+          "Power_Location_List": [
+            "KUGQUNU_DECT",
+            "LOWER_ROZA_JSS_ATLAS",
+            "MVUMELWANO"
+          ],
+          "Hub_Site_List": [],
+          "High_Temp_Location_List": [
+            "KUGQUNU_DECT",
+            "LOWER_ROZA_JSS_ATLAS"
+          ],
+          "Intruder_Location_List": [],
+          "RCA": "Link Issue - Power Related"
+        },
+        {
+          "start_ts": 1772613930,
+          "Region": "EAS",
+          "Hub_Name": "County Group",
+          "County_List": [
+            "Kei"
+          ],
+          "OOS_Count": 3,
+          "Tech_Counts": {
+            "2G": 3,
+            "3G": 3,
+            "4G": 0,
+            "5G": 0
+          },
+          "Impact_15min_Count": 3,
+          "MSDP_Priority": "P4",
+          "Failure_Window": "3 sites in 10min",
+          "Failure_Probability": "N/A",
+          "Average_Rank": 9470.33,
+          "OOS_Location_List": [
+            "MATEKU",
+            "MKHAMELA",
+            "MPOLWENI"
+          ],
+          "Power_Location_List": [
+            "MATEKU"
+          ],
+          "Hub_Site_List": [],
+          "High_Temp_Location_List": [
+            "MATEKU",
+            "MKHAMELA"
+          ],
+          "Intruder_Location_List": [],
+          "RCA": "Link Issue"
+        }
+      ]
+    },
+    "Unknown": {
+      "Total_OOS_Count": 8,
+      "Incidents": []
+    },
+    "NGA": {
+      "Total_OOS_Count": 27,
+      "Incidents": []
+    }
+  }
+}
